@@ -1,9 +1,0 @@
-__pycache__/
-.pytest_cache/
-.venv/
-*.py[cod]
-*.egg-info/
-.DS_Store
-data/frb*/
-data/*.tar.gz
-
