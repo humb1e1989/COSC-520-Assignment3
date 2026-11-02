@@ -1,0 +1,5 @@
+dataset,vertices,edges,algorithm,trials,median_runtime_ns,median_solution_value,min_solution_value,max_solution_value,all_valid
+sample_graph.col,8,12,vc_basic,5,16400,8,8,8,True
+sample_graph.col,8,12,vc_randomized,5,22800,6,5,7,True
+sample_graph.col,8,12,coloring_basic,5,23700,4,3,4,True
+sample_graph.col,8,12,coloring_smallest_last,5,21000,3,3,3,True
