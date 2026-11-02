@@ -1,0 +1,11 @@
+dataset,vertices,edges,algorithm,trials,median_runtime_ns,median_solution_value,min_solution_value,max_solution_value,all_valid
+frb30-15-1.mis,450,17827,vc_basic,10,8136800.0,450.0,450,450,True
+frb30-15-1.mis,450,17827,vc_randomized,10,7929950.0,449.0,449,449,True
+frb35-17-1.mis,595,27856,vc_basic,10,13094400.0,592.0,592,592,True
+frb35-17-1.mis,595,27856,vc_randomized,10,13056100.0,592.0,590,592,True
+frb40-19-1.mis,760,41314,vc_basic,10,18999300.0,760.0,760,760,True
+frb40-19-1.mis,760,41314,vc_randomized,10,19414900.0,758.0,758,758,True
+frb45-21-1.mis,945,59186,vc_basic,10,28659750.0,944.0,944,944,True
+frb45-21-1.mis,945,59186,vc_randomized,10,28713350.0,944.0,943,944,True
+frb50-23-1.mis,1150,80072,vc_basic,10,37541800.0,1148.0,1148,1148,True
+frb50-23-1.mis,1150,80072,vc_randomized,10,37815050.0,1146.0,1146,1146,True

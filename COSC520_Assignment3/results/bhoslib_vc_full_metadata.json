@@ -1,0 +1,20 @@
+{
+  "files": [
+    "data\\bhoslib\\mis\\frb30-15-1.mis",
+    "data\\bhoslib\\mis\\frb35-17-1.mis",
+    "data\\bhoslib\\mis\\frb40-19-1.mis",
+    "data\\bhoslib\\mis\\frb45-21-1.mis",
+    "data\\bhoslib\\mis\\frb50-23-1.mis"
+  ],
+  "algorithms": [
+    "vc_basic",
+    "vc_randomized"
+  ],
+  "problem": "vertex-cover",
+  "repetitions": 10,
+  "base_seed": 520,
+  "algorithm_order": "rotated across trials",
+  "timing": "file parsing, validation, and output writing excluded",
+  "python": "3.14.4",
+  "platform": "Windows-11-10.0.26200-SP0"
+}
